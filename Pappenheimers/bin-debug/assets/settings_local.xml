@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<setting id="server">http://localhost:8080/amfphp/gateway.php</setting>
+	<setting id="androidLink">http://localhost:8080/pappenheimers.air.apk</setting>
+	<setting id="kennismaking">In de kennismakingsronde krijgen drie teams van twee OBV’s vijftien vragen over uiteenlopende onderwerpen.
+Het is immers de bedoeling om elkaars sterke en zwakke punten te achterhalen.
+Telkens vijf seconden om te antwoorden na het afdrukken.
+De teamgenoot van diegene die het snelst reageert moet de vraag beantwoorden.
+100 euro per correct antwoord, bij een fout antwoord moet de speler de vraag doorgeven aan een BV in een koker, van wie hij vermoedt dat die het antwoord ook niet kent.
+Als de BV in de koker het antwoord weet gaat er 100 euro naar de twee andere ploegen, als het antwoord fout is blijft het geld in de goedgevulde kassa.
+Op het einde van deze ronde mag het team met de laagste score als eerste een BV kiezen die hun team zal vervolledigen voor de volgende rondes. Bij een gelijke stand kijken we naar de stand vòòr het ex-aequo.
+OBV’s en BV proberen dan een team te vormen waarvan de drie spelers zo complementair mogelijk zijn.
+Op het einde van ronde 1 zijn er dus nog drie ploegen over.
+Elke ploeg bestaat nu uit drie kandidaten: twee OBV's en een BV.
+
+Keuze van de BV’s:
+Op het einde van deze ronde worden de drie BV’s kort met elk drie sterke punten en één zwak punt voorgesteld.
+De ploeg met de minste punten kiest als eerste een BV.
+Praktisch betekent dit dat de duo’s de BV van hun keuze in zijn/haar koker vergezellen.
+
+Kokermoment:
+Het is belangrijk dat de OBV's en de BV zo veel mogelijk informatie uitwisselen, bijvoorbeeld: wie is goed in wat.
+In de kokers vinden de kandidaten ook de negen thema's voor de volgende ronde, die ze onder elkaar verdelen. Ieder drie thema's dus.
+Zo kunnen ze bepalen wie welk thema voor welk bedrag doet.
+Ze kiezen ook een kapitein: deze zal in de loop van de quiz autonoom een aantal beslissingen voor zijn/haar team moeten nemen. 
+	</setting>
+	<setting id="verdeelenheers">De kapitein van het laagst gerangschikte team kiest als eerste een thema en zegt wie van zijn/haar ploeg zal spelen.
+De spelers van de twee andere teams die in de kokers hetzelfde thema op zich hadden genomen worden ook opgelicht.
+Deze drie spelen tegen elkaar. Om ter snelst afdrukken, maar als je fout antwoordt gaat het geld naar de tegenstanders. Drie vragen per thema.
+De eerste drie thema’s zijn voor 100 euro per vraag, de volgende drie voor 200 en de laatste drie thema’s voor 300 euro.
+De kapiteins zullen dus proberen hun zwakste thema’s of de sterkste thema’s van de andere teams eerst te spelen en de thema’s die hen beter moeten liggen voor de hogere bedragen uitsparen.
+Op het einde van deze ronde valt het team met de laagste score af.
+Kokermoment:
+De twee andere ploegen blijven zitten en spelen ronde 3</setting>
+	<setting id="gevenennemen">
+De laagst gerangschikte ploeg mag beginnen.
+Er verschijnen zes thema’s. Elke speler zal één thema moeten spelen. De kapiteins beslissen om beurt en zonder overleg wie van hun ploeg welk thema speelt.
+De eerste van elk team speelt voor 100 euro per vraag, de tweede voor 200 en de derde voor 300 euro. Wederom drie vragen per thema.
+Bij een fout antwoord geef je de vraag door aan iemand van de tegenpartij van wie je vermoedt dat hij of zij het antwoord ook niet kent.
+Kent die inderdaad het antwoord niet, dan heb je dat goed ingeschat en verdient er niemand geld. Kent die tegenstander het antwoord wel, dan krijgt die jouw geld.
+De ploeg die op het einde van deze ronde het minste geld heeft valt af en gaat naar de koker.
+Kokermoment:
+De afvallende ploeg gaat naar zijn koker.
+De laatste ploeg blijft zitten voor de finale</setting>
+	<setting id="finale">Een team bestaande uit twee OBV's en een BV
+Er wordt een reeks vragen afgevuurd in een tijdspanne van 120 ijzingwekkende seconden.
+De kapitein bepaalt telkens nadat hij/zij de vraag heeft gehoord, wie er moet antwoorden. Hij/zij duidt een teamgenoot aan, of geeft zelf het antwoord.
+Er moeten in totaal negen goede antwoorden gegeven worden.
+Elke kandidaat moet wel drie goede antwoorden geven.
+Belangrijke moeilijkheid : als je fout antwoordt verlies je ook je laatste goede antwoord. M.a.w: kandidaat A heeft bijvoorbeeld al twee goede antwoorden, en mist het derde zodat hij op één goed antwoord terugvalt. 
+Je wint dus als ieder binnen de 120 seconden drie goede antwoorden heeft gegeven.
+
+Als de finalisten het halen krijgen ze het dubbele van het bedrag dat ze tot tot dan bij mekaar hadden gespeeld. Halen ze het niet, dan gaan ze met lege handen naar huis.
+Wat altijd nog beter is dan zonder handen. 	</setting>
+</settings>
